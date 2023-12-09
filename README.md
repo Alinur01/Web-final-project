@@ -2,6 +2,8 @@
 
 **Project Name:** Quizlet web app
 
+**Link to Youtube video:** https://www.youtube.com/watch?v=DcLcE42CNh8
+
 **Link to site:** [https://heuristic-noyce-106def.netlify.app/](https://heuristic-noyce-106def.netlify.app/)
 
 ## Description:  
